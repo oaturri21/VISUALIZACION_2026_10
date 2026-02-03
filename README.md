@@ -1,0 +1,2 @@
+# VISUALIZACION_2026_10
+Clase
